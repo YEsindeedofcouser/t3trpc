@@ -106,4 +106,3 @@ jobs:
         run: |
           sleep 10
           curl -f https://workshop-devops.devphoom-kup.com || echo "Health check failed"
-          
